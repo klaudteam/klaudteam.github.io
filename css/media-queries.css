@@ -1,0 +1,319 @@
+@media only screen and (max-width: 1070px) {
+    .menu__btn {
+    display: flex;
+    align-items: center;
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    width: 26px;
+    height: 26px;
+    cursor: pointer;
+    z-index: 1;
+    visibility: visible;
+    } 
+    .hidden{
+    visibility: hidden;
+}
+@media only screen and (max-width: 992px) {
+    body {   
+    background-image: url('../image/fon/fonmid.png');  
+    color: #FFD718;
+    } 
+	.wrapper {
+		width: 320px;
+	}
+	.button-main {
+    text-decoration: none;
+    display: inline-block;
+    position: relative;
+    padding: 15px 30px;
+    color: white;
+    border: 1px solid #cd090a;
+    font-size: 14px;
+    font-weight: 700;
+    white-space: nowrap;
+    transition: .3s linear;
+    margin-top: 20px;
+    margin-left: auto;
+    width: auto;
+	}
+	.button-main-2 {
+    text-decoration: none;
+    display: inline-block;
+    position: relative;
+    padding: 15px 28px;
+    color: white;
+    border: 1px solid #cd090a;
+    font-size: 14px;
+    font-weight: 700;
+    white-space: nowrap;
+    transition: .3s linear;
+    margin-top: 10px ;
+    left: 0px;
+    margin-left: auto;
+    width: auto;
+	}	
+	.divcentertext {
+	overflow:hidden;
+	}	
+	.divcentertext-2 {  box-sizing:border-box;
+  	width:auto;
+  	max-width:200%;
+  	}
+    .color-button {
+    color:white;
+    }
+    .menu__btn {
+    display: flex;
+    align-items: center;
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    width: 26px;
+    height: 26px;
+    cursor: pointer;
+    z-index: 1;
+    visibility: visible;
+    } 
+    .hidden{
+    visibility: hidden;
+    }
+    .commandacenter{
+    display:flex; 
+    justify-content: center; 
+    align-items: center; 
+    padding-top:200px;
+    }
+    .commandacenter2{
+    display:flex; 
+    justify-content: center; 
+    align-items: center; 
+    padding-top:0px;
+    }
+}
+
+
+@media only screen and (max-width: 768px) {
+    body {   
+    background-image: url('../image/fon/fonmidmini.png');  
+    } 
+	.wrapper {
+		width: 320px;
+	}
+	.button-main {
+    text-decoration: none;
+    display: inline-block;
+    position: relative;
+    padding: 15px 30px;
+    color: white;
+    border: 1px solid #cd090a;
+    font-size: 14px;
+    font-weight: 700;
+    white-space: nowrap;
+    transition: .3s linear;
+    margin-top: 20px;
+    margin-left: auto;
+    width: auto;
+	}
+	.button-main-2 {
+    text-decoration: none;
+    display: inline-block;
+    position: relative;
+    padding: 15px 28px;
+    color: white;
+    border: 1px solid #cd090a;
+    font-size: 14px;
+    font-weight: 700;
+    white-space: nowrap;
+    transition: .3s linear;
+    margin-top: 10px ;
+    left: 0px;
+    margin-left: auto;
+    width: auto;
+	}	
+	.divcentertext {
+	overflow:hidden;
+	}	
+	.divcentertext-2 {  box-sizing:border-box;
+  	width:auto;
+  	max-width:200%;
+  	}
+    .color-button {
+    color:white;
+    }   
+    .menu__btn {
+    display: flex;
+    align-items: center;
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    width: 26px;
+    height: 26px;
+    cursor: pointer;
+    z-index: 1;
+    visibility: visible;
+    } 
+    .hidden{
+    visibility: hidden;
+    }
+    .commandacenter{
+    display:flex; 
+    justify-content: center; 
+    align-items: center; 
+    padding-top:200px;
+    }
+    .commandacenter2{
+    display:flex; 
+    justify-content: center; 
+    align-items: center; 
+    padding-top:0px;
+    }
+}
+
+
+@media only screen and (max-width: 480px) {
+    body {   
+    background-image: url('../image/fon/fonmini.png');  
+    }  
+	.wrapper {
+		width: 320px;
+    }
+	.button-main {
+    text-decoration: none;
+    display: inline-block;
+    position: relative;
+    padding: 15px 30px;
+    color: white;
+    border: 1px solid #cd090a;
+    font-size: 14px;
+    font-weight: 700;
+    white-space: nowrap;
+    transition: .3s linear;
+    margin-top: 20px;
+    width: auto;
+    margin-left: auto;
+	}
+	.button-main-2 {
+    text-decoration: none;
+    display: inline-block;
+    position: relative;
+    padding: 15px 28px;
+    color: white;
+    border: 1px solid #cd090a;
+    font-size: 14px;
+    font-weight: 700;
+    white-space: nowrap;
+    transition: .3s linear;
+    margin-top: 10px ;
+    left: 0px;
+    width: auto;
+    margin-left: auto;
+	}	
+    .color-button {
+    color:white;
+    }      
+	.divcentertext {
+	overflow:hidden;
+	}	
+	.divcentertext-2 {  box-sizing:border-box;
+  	width:auto;
+  	max-width:200%;
+    }   
+    .menu__btn {
+    display: flex;
+    align-items: center;
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    width: 26px;
+    height: 26px;
+    cursor: pointer;
+    z-index: 1;
+    visibility: visible;
+    } 
+    .hidden{
+    visibility: hidden;
+    }
+    .commandacenter{
+    display:flex; 
+    justify-content: center; 
+    align-items: center; 
+    padding-top:30px;
+    }
+    .commandacenter2{
+    display:flex; 
+    justify-content: center; 
+    align-items: center; 
+    padding-top:0px;
+    }
+}
+
+
+@media only screen and (max-width: 370px) {
+    .button-main1 {
+    text-decoration: none;
+    display: inline-block;
+    position: relative;
+    padding: 15px 40px;
+    color: white;
+    border: 1px solid #cd090a;
+    font-size: 25px;
+    font-weight: 700;
+    white-space: nowrap;
+    transition: .3s linear;
+    margin-left: -2px;
+    margin-top: 10px;
+    }
+}
+
+@media only screen and (max-width: 335px) { 
+    .button-main1 {
+    text-decoration: none;
+    display: inline-block;
+    position: relative;
+    padding: 15px 35px;
+    color: white;
+    border: 1px solid #cd090a;
+    font-size: 25px;
+    font-weight: 700;
+    white-space: nowrap;
+    transition: .3s linear;
+    margin-left: -2px;
+    margin-top: 10px;
+    }
+}
+
+@media only screen and (max-width: 310px) {
+    .button-main1 {
+    text-decoration: none;
+    display: inline-block;
+    position: relative;
+    padding: 15px 25px;
+    color: white;
+    border: 1px solid #cd090a;
+    font-size: 20px;
+    font-weight: 700;
+    white-space: nowrap;
+    transition: .3s linear;
+    margin-left: -2px;
+    margin-top: 10px;
+    }
+}
+
+
+@media only screen and (max-width: 280px) {   
+    .button-main1 {
+    text-decoration: none;
+    display: inline-block;
+    position: relative;
+    padding: 15px 10px;
+    color: white;
+    border: 1px solid #cd090a;
+    font-size: 25px;
+    font-weight: 700;
+    white-space: nowrap;
+    transition: .3s linear;
+    margin-left: -2px;
+    margin-top: 10px;
+    }
+}
